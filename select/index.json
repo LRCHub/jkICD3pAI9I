@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ゆずれない願い (Complete ver)VideoAudio",
+  "base_artist": "田村直美",
+  "createdAt": "2025-12-31T06:51:19.263805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "田村直美",
+      "has_synced": false,
+      "path": "select/01_ゆずれない願い_田村直美.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "Shoko Nakagawa",
+      "has_synced": true,
+      "path": "select/02_ゆずれない願い_Shoko_Nakagawa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "中川翔子",
+      "has_synced": true,
+      "path": "select/03_ゆずれない願い_中川翔子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゆずれない願い - Complete ver",
+      "artist": "Naomi Tamura",
+      "has_synced": true,
+      "path": "select/04_ゆずれない願い_-_Complete_ver_Naomi_Tamura.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "高原歩美 (竹達彩奈) & 五位堂結 (高垣彩陽)",
+      "has_synced": false,
+      "path": "select/05_ゆずれない願い_高原歩美_(竹達彩奈)_&_五位堂結_(高垣彩陽).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "下川みくに",
+      "has_synced": false,
+      "path": "select/06_ゆずれない願い_下川みくに.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "Naomi Tamura",
+      "has_synced": true,
+      "path": "select/07_ゆずれない願い_Naomi_Tamura.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "田村直美",
+      "has_synced": true,
+      "path": "select/08_ゆずれない願い_田村直美.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "五位堂結&高原歩美 starring 高垣彩陽&竹達彩奈",
+      "has_synced": true,
+      "path": "select/09_ゆずれない願い_五位堂結&高原歩美_starring_高垣彩陽&竹達彩奈.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "HIMEKA",
+      "has_synced": false,
+      "path": "select/10_ゆずれない願い_HIMEKA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "Tamura, Naomi",
+      "has_synced": false,
+      "path": "select/11_ゆずれない願い_Tamura,_Naomi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ゆずれない願い",
+      "artist": "榊原ゆい",
+      "has_synced": false,
+      "path": "select/12_ゆずれない願い_榊原ゆい.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ゆずれない願い (Complete Ver.)",
+      "artist": "田村直美",
+      "has_synced": true,
+      "path": "select/13_ゆずれない願い_(Complete_Ver.)_田村直美.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ゆずれない願い (姉うたver.)",
+      "artist": "田村直美",
+      "has_synced": false,
+      "path": "select/14_ゆずれない願い_(姉うたver.)_田村直美.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ゆずれない願い(オリジナルカラオケ)",
+      "artist": "田村直美",
+      "has_synced": true,
+      "path": "select/15_ゆずれない願い(オリジナルカラオケ)_田村直美.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆずれない願い",
+      "artist": "田村 直美",
+      "has_synced": false,
+      "path": "select/pl_01_ゆずれない願い_田村_直美.txt"
+    }
+  ]
+}
